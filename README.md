@@ -59,6 +59,3 @@ lib/
   mock-data.ts              # Sample evaluation data
 ```
 
-## License
-
-MIT
